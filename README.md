@@ -27,6 +27,8 @@ This project demonstrates essential **frontend development concepts** including:
 ## **Screenshots of Output**
 
 <img width="1835" height="1028" alt="Screenshot 2026-02-18 002819" src="https://github.com/user-attachments/assets/df9c00c4-522b-46ad-b854-cb0d801f7a30" />
+## **Overview**
 
+"C:\voice-api\imageslider\Digital Clock Web App\outputvideo.mp4"
 ## **Author**
 **Swathi**
